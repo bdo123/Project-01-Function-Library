@@ -1,1 +1,2 @@
-HI
+umd-gameday-bites/           # Main GitHub repo folder
+├── README.md                # Project overview + instructions
