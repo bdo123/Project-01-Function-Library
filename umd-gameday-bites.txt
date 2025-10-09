@@ -1,2 +1,15 @@
 umd-gameday-bites/           # Main GitHub repo folder
 ├── README.md                # Project overview + instructions
+├── requirements.txt         # Optional, if using libraries
+├── src/
+│   ├── __init__.py
+│   ├── menu_functions.py    # 15+ documented functions
+│   └── utils.py             # Optional: helper functions
+├── docs/
+│   ├── function_reference.md # All functions listed and explained
+│   └── usage_examples.md     # Example inputs + outputs
+├── examples/
+│   └── demo_script.py       # A script that runs some functions
+└── data/
+    ├── menu.json            # Sample food menu data
+    └── food_images/         # Optional: image files of menu items
